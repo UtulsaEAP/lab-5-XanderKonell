@@ -9,6 +9,7 @@ if __name__ == '__main__':
    user_input3 = int(input())
    user_input4 = int(input())
    #store output for every input here
+   swapped_values = swap_values(user_input1, user_input2, user_input3, user_input4)
    #print those output
-
+   print(*swapped_values)
  
