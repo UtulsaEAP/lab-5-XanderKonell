@@ -1,3 +1,5 @@
+#Name: Xander Konell
+#Hour: 3
 def driving_cost(miles_per_gallon, dollars_per_gallon, miles_driven):
    return dollars_per_gallon/miles_per_gallon*miles_driven
    #write your code here

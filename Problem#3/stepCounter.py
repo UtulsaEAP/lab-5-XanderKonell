@@ -1,3 +1,5 @@
+#Name: Xander Konell
+#Hour: 3
 def feet_to_steps(user_feet):
    #write your code here
    steps = user_feet / 2.5

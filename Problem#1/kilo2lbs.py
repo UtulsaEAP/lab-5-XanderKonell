@@ -1,3 +1,5 @@
+#Name: Xander Konell
+#Hour: 3
 def kilo_to_pounds(kilos):
     # This statement intentionally has an error. 
     return (kilos * 2.204)

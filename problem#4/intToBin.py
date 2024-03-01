@@ -1,3 +1,5 @@
+#Name: Xander Konell
+#Hour: 3
 def int_to_reverse_binary(num1):
     binary_val = ''
 #write your while loop here
